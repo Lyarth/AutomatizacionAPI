@@ -1,0 +1,1 @@
+Como conclusiones se da por terminada la prueba del api de PetStore en la cual se hacen validaciones de información de la mascota cumpliendo con los 4 consumos solicitados
